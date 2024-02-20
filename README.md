@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Programo com</h2>
+<h2 align="left">Programo com:</h2>
 
 ###
 
