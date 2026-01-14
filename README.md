@@ -1,7 +1,6 @@
 # 👋 Hi, I'm João Pedro | Olá, eu sou João Pedro
 
 🎓 Software Engineering student
-💻 Developer in training (Front-End / Web / Full Stack)
 📍 Belo Horizonte – Brazil
 
 ---
@@ -9,22 +8,19 @@
 ## 🚀 About Me | Sobre mim
 
 **EN:**
-I am a software engineering student with experience in Front-End development, IT support, and systems maintenance. Currently focused on Java and Spring Boot.
+I am a software engineering student with experience in Front-End development, IT support, and systems maintenance. 
 
 **PT-BR:**
-Sou estudante de Engenharia de Software com experiência em desenvolvimento Front-End, suporte de TI e manutenção de sistemas. Atualmente focado em Java e Spring Boot.
-
+Sou estudante de Engenharia de Software com experiência em desenvolvimento Front-End, suporte de TI e manutenção de sistemas. 
 ---
 
 ## 🛠️ Tech Stack
 
 * Java
-* JavaScript
 * Python
 * React
 * Spring Boot
 * Git & GitHub
-* SQL
 
 ---
 
@@ -45,16 +41,18 @@ Sou estudante de Engenharia de Software com experiência em desenvolvimento Fron
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JpMaciel04\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JpMaciel04\&show_icons=true\&include_all_commits=true\&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMaciel04\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMaciel04\&layout=compact\&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JpMaciel04)
 
 ---
 
 ## 📫 Contact | Contato
 
-* LinkedIn: *(add link)*
-* Email: *(add email)*
+* LinkedIn: https://www.linkedin.com/in/joão-pedro-maciel-de-oliveira-b466a2207/
+
 
 ---
 
