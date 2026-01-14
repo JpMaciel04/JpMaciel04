@@ -1,4 +1,4 @@
-# 👋 Hi, I'm João Pedro | Olá, eu sou João Pedro
+# 👋 Hi there, I'm João Pedro | Olá, eu sou João Pedro
 
 🎓 Software Engineering student
 📍 Belo Horizonte – Brazil
@@ -8,10 +8,11 @@
 ## 🚀 About Me | Sobre mim
 
 **EN:**
-I am a software engineering student with experience in Front-End development, IT support, and systems maintenance. 
+I am a software engineering student with experience in Front-End development, IT support and SQL. 
 
 **PT-BR:**
-Sou estudante de Engenharia de Software com experiência em desenvolvimento Front-End, suporte de TI e manutenção de sistemas. 
+Sou estudante de Engenharia de Software com experiência em desenvolvimento Front-End, suporte de TI e SQL. 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -19,15 +20,16 @@ Sou estudante de Engenharia de Software com experiência em desenvolvimento Fron
 * Java
 * Python
 * React
-* Spring Boot
+* SQL
 * Git & GitHub
 
 ---
 
 ## 📂 Featured Projects | Projetos
 
-* 🔧 Equipment Repair / Service Order System
-  Management system for equipment repairs with different user roles.
+* 🔧 WebScraping + Data Analytics
+
+   This project is a **complete data extraction and analytics pipeline** for Counter-Strike 2 competitive players. It automatically scrapes match data from GamerClubs and performs in-depth analysis.
 
 ---
 
@@ -39,15 +41,6 @@ Sou estudante de Engenharia de Software com experiência em desenvolvimento Fron
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JpMaciel04\&show_icons=true\&include_all_commits=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMaciel04\&layout=compact\&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JpMaciel04)
-
----
 
 ## 📫 Contact | Contato
 
