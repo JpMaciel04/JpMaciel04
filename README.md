@@ -1,44 +1,62 @@
-<h1 align="center">Olá, tudo tranquilo?👍</h1>
+# 👋 Hi, I'm João Pedro | Olá, eu sou João Pedro
 
-###
+🎓 Software Engineering student
+💻 Developer in training (Front-End / Web / Full Stack)
+📍 Belo Horizonte – Brazil
 
-<h2 align="left">Sobre mim:</h2>
+---
 
-###
+## 🚀 About Me | Sobre mim
 
-<p align="left">Me chamo João Pedro, atualmente com 19 anos, 📚 Estou Graduando em Ciência da Computação na Newton Paiva.</p>
+**EN:**
+I am a software engineering student with experience in Front-End development, IT support, and systems maintenance. Currently focused on Java and Spring Boot.
 
-###
+**PT-BR:**
+Sou estudante de Engenharia de Software com experiência em desenvolvimento Front-End, suporte de TI e manutenção de sistemas. Atualmente focado em Java e Spring Boot.
 
-<h2 align="left">Programo com:</h2>
+---
 
-###
+## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
+* Java
+* JavaScript
+* Python
+* React
+* Spring Boot
+* Git & GitHub
+* SQL
 
-###
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JpMaciel04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📂 Featured Projects | Projetos
 
-###
+* 🔧 Equipment Repair / Service Order System
+  Management system for equipment repairs with different user roles.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joão-pedro-maciel-de-oliveira-b466a2207/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="https://is.gd/2wkPw9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+## 🌍 Languages | Idiomas
+
+* Portuguese (Native)
+* English (Fluent)
+* Spanish (Basic)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JpMaciel04\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JpMaciel04\&layout=compact)
+
+---
+
+## 📫 Contact | Contato
+
+* LinkedIn: *(add link)*
+* Email: *(add email)*
+
+---
+
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+> — Alan Turing
