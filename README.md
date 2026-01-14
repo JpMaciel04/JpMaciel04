@@ -8,10 +8,10 @@
 ## 🚀 About Me | Sobre mim
 
 **EN:**
-I am a software engineering student with experience in Front-End development, IT support and SQL. 
+I am a software engineering student with experience in Front-End development, N1 support and SQL. 
 
 **PT-BR:**
-Sou estudante de Engenharia de Software com experiência em desenvolvimento Front-End, suporte de TI e SQL. 
+Sou estudante de Engenharia de Software com experiência em desenvolvimento Front-End, N1 suporte e SQL. 
 
 ---
 
