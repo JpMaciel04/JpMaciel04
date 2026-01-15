@@ -27,10 +27,10 @@ Sou estudante de Engenharia de Software com experiência em desenvolvimento Fron
 
 ## 📂 Featured Projects | Projetos
 
-* 🔧 WebScraping + Data Analytics
+* 🔧 [WebScraping + Data Analytics](https://github.com/JpMaciel04/webscraper-gamerclubs-analytics.git)
 
    This project is a **complete data extraction and analytics pipeline** for Counter-Strike 2 competitive players. It automatically scrapes match data from GamerClubs and performs in-depth analysis.
-
+               
 ---
 
 ## 🌍 Languages | Idiomas
