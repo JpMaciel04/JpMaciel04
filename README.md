@@ -30,6 +30,10 @@ Sou estudante de Engenharia de Software com experiência em desenvolvimento Fron
 * 🔧 [WebScraping + Data Analytics](https://github.com/JpMaciel04/webscraper-gamerclubs-analytics.git)
 
    This project is a **complete data extraction and analytics pipeline** for Counter-Strike 2 competitive players. It automatically scrapes match data from GamerClubs and performs in-depth analysis.
+  
+* 📝 [Layered Architecture + Crud Operations ](https://github.com/JpMaciel04/basicToDoList.git)
+
+  This project is a simple Java-based To-Do List application using layered architecture (Controller, Service, Repository, Model) to manage users and tasks with business rules and in-memory storage.
                
 ---
 
@@ -47,7 +51,4 @@ Sou estudante de Engenharia de Software com experiência em desenvolvimento Fron
 * LinkedIn: https://www.linkedin.com/in/joão-pedro-maciel-de-oliveira-b466a2207/
 
 
----
 
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done."
-> — Alan Turing
