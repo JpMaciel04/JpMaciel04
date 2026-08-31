@@ -34,6 +34,10 @@ Sou estudante de Engenharia de Software com experiência em desenvolvimento Fron
 * 📝 [Layered Architecture + Crud Operations ](https://github.com/JpMaciel04/basicToDoList.git)
 
   This project is a simple Java-based To-Do List application using layered architecture (Controller, Service, Repository, Model) to manage users and tasks with business rules and in-memory storage.
+
+* 🌐 [Personal Portfolio — React + Three.js](https://github.com/JpMaciel04/portifolio-joaoPedro.git)
+
+     This project is a personal portfolio site built with React, TypeScript and Vite, featuring an interactive 3D background (React Three Fiber / Three.js) with bloom and depth-of-field post-processing and a mouse-driven parallax camera, plus a working contact form        powered by EmailJS.
                
 ---
 
