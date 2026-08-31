@@ -53,6 +53,7 @@ Sou estudante de Engenharia de Software com experiência em desenvolvimento Fron
 ## 📫 Contact | Contato
 
 * LinkedIn: https://www.linkedin.com/in/joão-pedro-maciel-de-oliveira-b466a2207/
+* Portifolio Pessol: https://meu-portifolio-react-lac.vercel.app
 
 
 
