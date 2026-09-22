@@ -20,6 +20,7 @@ Sou estudante de Engenharia de Software com experiência em desenvolvimento Fron
 * Java
 * Python
 * React
+* C++
 * SQL
 * Git & GitHub
 
